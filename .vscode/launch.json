@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Condition",
+            "request": "launch",
+            "mainClass": "Condition",
+            "projectName": "Introduction to Java_2ea70a39"
+        },
+        {
+            "type": "java",
+            "name": "DataType",
+            "request": "launch",
+            "mainClass": "DataType",
+            "projectName": "Introduction to Java_2ea70a39"
+        },
+        {
+            "type": "java",
+            "name": "Func",
+            "request": "launch",
+            "mainClass": "Func",
+            "projectName": "Introduction to Java_2ea70a39"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Introduction to Java_2ea70a39"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "IfElse",
+            "projectName": "Introduction to Java_2ea70a39"
+        },
+        {
+            "type": "java",
+            "name": "Quadratic",
+            "request": "launch",
+            "mainClass": "Quadratic.Quadratic",
+            "projectName": "Introduction to Java_2ea70a39"
+        }
+    ]
+}
